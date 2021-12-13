@@ -1,1 +1,1 @@
-# lightpack.md
+The basic idea for the backpack is to use enginering principles to create the most useful backpack whilst also keeping everything that makes them so convienent in the first place. The backpack should include a photoresister that connects to a arduino that should auttomaticly turn on a set of led lights located on the straps to allow for vision at night. It should also contain an insulated packet for food storage, a detachaple solar pannel and battery loctaed at the bottom of the backpack. And that included with the padded back makes this a very useful backpack
